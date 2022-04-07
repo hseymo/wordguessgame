@@ -1,2 +1,2 @@
 # wordguessgame
-UW Bootcamp mini-project end of week 2
+UW Web development bootcamp mini-project for unit 4 (end of week 2)
